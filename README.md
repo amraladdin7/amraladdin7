@@ -1,6 +1,6 @@
-### Hello Everyone 👋
+# Hello Everyone 👋
 
-#I am currently developming My Front-End knowledge, working on multiple projects using:
+## I am currently developming My Front-End knowledge, working on multiple projects using:
 1. HTML
 2. CSS
 3. JavaScript
