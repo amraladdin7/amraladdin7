@@ -5,7 +5,8 @@
 2. CSS
 3. JavaScript
 4. Node.js
-to create dynamically changing web pages.
+5. React.js
+To create Dynamic web pages with different functionalities.
 
 I am always looking for collaborations on projects and would love to hear from you. ;)
 
