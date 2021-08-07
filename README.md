@@ -6,6 +6,7 @@
 3. JavaScript
 4. Node.js
 5. React.js
+
 To create Dynamic web pages with different functionalities.
 
 I am always looking for collaborations on projects and would love to hear from you. ;)
